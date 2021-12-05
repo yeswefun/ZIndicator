@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Vtext">
+        <attr name="fontColor" format="color" />
+        <attr name="activeFontColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="IndicatorView">
+        <attr name="tabVisibleNum" format="integer" />
+    </declare-styleable>
+</resources>
